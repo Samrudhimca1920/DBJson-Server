@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Taj Hotel",
+      "address": "Mumbai",
+      "email": "Taj@gmail.com",
+      "services": "Chinese+thai",
+      "mobile": 9555555555
+    },
+    {
+      "id": "2",
+      "name": "Grand Hayat",
+      "address": "Pune ",
+      "email": "Hayat@gmail.com",
+      "services": "Indian+fruits juice",
+      "mobile": 8087808780
+    },
+    {
+      "id": "3",
+      "name": "Le Meridian",
+      "address": "Pune Mumbai highway",
+      "email": "Meridian@gmail.com",
+      "services": "Chinese+thai",
+      "mobile": 9823982398
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 9977997799,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "name": "Admin",
+      "email": "Marvellous@gmail.com",
+      "mobile": 7020717020,
+      "password": "Admin@123",
+      "id": "2"
+    },
+    {
+      "id": "1",
+      "name": "Raj",
+      "email": "Raj@gmail.com",
+      "password": "password@123",
+      "address": "Pune"
+    },
+    {
+      "id": "6e99",
+      "name": "Raj",
+      "email": "Raj@gmail.com",
+      "password": "password@123",
+      "address": "Pune"
+    }
+  ]
+}
